@@ -1,4 +1,10 @@
-    
+    <div class="container">
+        <div class="row-footer">
+            <a href='https://www.facebook.com/profile.php?id=100030899865523'><i class="fab fa-facebook-square"></i></a>
+            <a href='https://github.com/leduyen2801/CSE485_LeThiDuyen_1851061481_BaiTapLon.git'><i class="fab fa-github-square"></i></a>
+            <p>Bản quyền năm 2020 của Daisy. Đã đăng ký bản quyền</p>
+        </div>
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     
